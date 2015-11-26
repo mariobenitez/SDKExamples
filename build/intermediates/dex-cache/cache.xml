@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mmbs\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\core-3.2.0-567815143570efc6d684411dc7d281a042dc2771.jar" />
+    </item>
+    <item
+        jar="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\classes-d0f7bab058e7acdcd4ab2edf8f60ee73454d264a.jar" />
+    </item>
+    <item
+        jar="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\wikitudesdk\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="37832d8c5a8e311a0a7e9f3cf73266887476a89d">
+        <dex dex="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\classes-eccd271864bd9d257f388a8a07139080a62cbb61.jar" />
+    </item>
+    <item
+        jar="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-1dac4bf8bd1cd37f645d6cf261a4030da8376812.jar" />
+    </item>
+    <item
+        jar="C:\Users\mmbs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\mmbs\Downloads\WikitudeSDK_Android_5_0_0\Examples\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-087d10ac1bf67eb0f58c2da30b306364795a5dff.jar" />
+    </item>
+
+</items>
